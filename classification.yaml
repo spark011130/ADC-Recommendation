@@ -1,0 +1,178 @@
+# ==========================================
+# League of Legends Champion Roles (ID Mapping)
+# Updated: 2024-2025 Meta (Includes Ambessa)
+# Format: ID: ["Primary", "Secondary", ...]
+# ==========================================
+
+# --- 1 ~ 50 ---
+1: ["MID", "SUP"]        # Annie (애니)
+2: ["TOP", "JG"]         # Olaf (올라프)
+3: ["MID", "SUP"]        # Galio (갈리오)
+4: ["MID"]        # Twisted Fate (트위스티드 페이트)
+5: ["JG"]                # Xin Zhao (신짜오)
+6: ["TOP", "JG"]         # Urgot (우르곳)
+7: ["MID"]        # LeBlanc (르블랑)
+8: ["MID", "TOP"]        # Vladimir (블라디미르)
+9: ["JG", "SUP"]         # Fiddlesticks (피들스틱)
+10: ["TOP"]        # Kayle (케일)
+11: ["JG"]        # Master Yi (마스터 이)
+12: ["SUP"]              # Alistar (알리스타)
+13: ["MID", "TOP"]       # Ryze (라이즈)
+14: ["TOP"]        # Sion (사이온)
+15: ["ADC"]       # Sivir (시비르)
+16: ["SUP"]       # Soraka (소라카)
+17: ["TOP"]       # Teemo (티모)
+18: ["ADC", "MID"]       # Tristana (트리스타나)
+19: ["JG", "TOP"]        # Warwick (워윅)
+20: ["JG"]        # Nunu & Willump (누누와 윌럼프)
+21: ["ADC"]              # Miss Fortune (미스 포츈) - 서폿은 비주류라 제외
+22: ["ADC"]       # Ashe (애쉬) - 서폿/탑 애쉬도 존재
+23: ["TOP"]        # Tryndamere (트린다미어)
+24: ["TOP", "JG"]        # Jax (잭스)
+25: ["SUP"]       # Morgana (모르가나)
+26: ["SUP"]       # Zilean (질리언)
+27: ["TOP"]       # Singed (신지드)
+28: ["JG"]        # Evelynn (이블린)
+29: ["ADC"]        # Twitch (트위치) - 정글/서폿 트위치 포함
+30: ["JG"]        # Karthus (카서스) - 원딜 카서스도 있지만 주로 정글
+31: ["TOP"]        # Cho'Gath (초가스)
+32: ["JG"]        # Amumu (아무무) - 서폿 아무무 포함
+33: ["JG", "TOP"]        # Rammus (람머스)
+34: ["MID"]       # Anivia (애니비아)
+35: ["JG", "SUP"]        # Shaco (샤코) - 서폿 샤코 포함
+36: ["TOP", "JG"]        # Dr. Mundo (문도 박사)
+37: ["SUP"]       # Sona (소나)
+38: ["MID"]       # Kassadin (카사딘)
+39: ["TOP", "MID"]       # Irelia (이렐리아)
+40: ["SUP"]       # Janna (잔나)
+41: ["TOP"]        # Gangplank (갱플랭크)
+42: ["MID", "ADC"]       # Corki (코르키)
+43: ["MID", "SUP"]       # Karma (카르마) - 탑 카르마 포함
+44: ["SUP"]       # Taric (타릭)
+45: ["MID", "SUP"]       # Veigar (베이가) - 원딜 베이가 포함
+48: ["JG", "TOP"]        # Trundle (트런들) - 서폿 트런들 포함
+50: ["MID", "SUP"]       # Swain (스웨인) - 원딜/서폿/미드
+
+# --- 51 ~ 100 ---
+51: ["ADC"]              # Caitlyn (케이틀린)
+53: ["SUP"]              # Blitzcrank (블리츠크랭크)
+54: ["TOP", "MID"]        # Malphite (말파이트) - 미드 말파 포함
+55: ["MID", "TOP"]       # Katarina (카타리나)
+56: ["JG"]        # Nocturne (녹턴)
+57: ["TOP", "SUP"]        # Maokai (마오카이) - 서폿 마오카이 포함
+58: ["TOP"]       # Renekton (레넥톤)
+59: ["JG"]        # Jarvan IV (자르반 4세)
+60: ["JG"]        # Elise (엘리스)
+61: ["MID"]       # Orianna (오리아나)
+62: ["JG"]        # Wukong (오공)
+63: ["MID", "SUP"]       # Brand (브랜드) - 정글 브랜드 포함
+64: ["JG"]        # Lee Sin (리 신)
+67: ["ADC"]              # Vayne (베인) - 탑 베인 포함
+68: ["TOP"]       # Rumble (럼블) - 정글/서폿 럼블 포함
+69: ["MID", "SUP"]       # Cassiopeia (카시오페아)
+72: ["JG"]        # Skarner (스카너)
+74: ["TOP", "MID"]       # Heimerdinger (하이머딩거) - 원딜/서폿 포함
+75: ["TOP"]        # Nasus (나서스)
+76: ["JG"]        # Nidalee (니달리) - 서폿/탑 포함
+77: ["JG", "TOP"]        # Udyr (우디르)
+78: ["TOP", "JG"]        # Poppy (뽀삐) - 서폿 뽀삐 포함
+79: ["JG", "TOP"]        # Gragas (그라가스) - 미드/서폿 포함
+80: ["MID", "TOP"]       # Pantheon (판테온) - 정글/서폿 포함
+81: ["ADC"]       # Ezreal (이즈리얼)
+82: ["TOP"]        # Mordekaiser (모데카이저)
+83: ["TOP", "JG"]        # Yorick (요릭)
+84: ["MID", "TOP"]       # Akali (아칼리)
+85: ["TOP"]       # Kennen (케넨)
+86: ["TOP", "MID"]       # Garen (가렌)
+89: ["SUP"]       # Leona (레오나)
+90: ["MID"]       # Malzahar (말자하)
+91: ["MID", "JG"]        # Talon (탈론)
+92: ["TOP", "MID"]       # Riven (리븐)
+96: ["ADC"]              # Kog'Maw (코그모) - 미드 AP 코그모 포함
+98: ["TOP"]        # Shen (쉔) - 서폿 쉔 포함
+99: ["SUP", "MID"]       # Lux (럭스)
+101: ["MID", "SUP"]      # Xerath (제라스) - 서폿 제라스 강세
+102: ["JG", "TOP"]       # Shyvana (쉬바나)
+103: ["MID"]             # Ahri (아리)
+104: ["JG"]       # Graves (그레이브즈) - 미드/탑 포함
+105: ["MID", "TOP"]      # Fizz (피즈)
+106: ["JG", "TOP"]       # Volibear (볼리베어)
+107: ["JG", "TOP"]       # Rengar (렝가)
+110: ["ADC", "MID"]      # Varus (바루스)
+111: ["SUP"]      # Nautilus (노틸러스)
+112: ["MID"]      # Viktor (빅토르)
+113: ["JG", "TOP"]       # Sejuani (세주아니)
+114: ["TOP"]      # Fiora (피오라)
+115: ["MID", "ADC"]      # Ziggs (직스) - 원딜 직스 포함
+117: ["SUP"]      # Lulu (룰루)
+119: ["ADC"]      # Draven (드레이븐)
+120: ["JG"]       # Hecarim (헤카림)
+121: ["JG"]       # Kha'Zix (카직스)
+122: ["TOP", "JG"]       # Darius (다리우스)
+126: ["TOP", "MID"]      # Jayce (제이스)
+127: ["MID"]      # Lissandra (리산드라)
+131: ["MID", "JG"]       # Diana (다이アナ)
+133: ["ADC", "TOP"]      # Quinn (퀸)
+134: ["MID"]      # Syndra (신드라)
+136: ["MID"]      # Aurelion Sol (아우렐리온 솔)
+141: ["JG"]       # Kayn (케인)
+142: ["MID", "SUP"]      # Zoe (조이)
+143: ["SUP"]      # Zyra (자이라) - 서폿 자이라 강세
+145: ["ADC"]      # Kai'Sa (카이사)
+147: ["SUP"]      # Seraphine (세라핀) - 원딜/서폿/미드
+148: ["TOP"]      # Gnar (나르)
+150: ["TOP"]      # Gnar (나르) - *Duplicate ID check needed, Gnar is 150/148 usually 150*
+154: ["JG", "SUP"]       # Zac (자크) - 서폿 자크 포함
+157: ["MID", "TOP"]      # Yasuo (야스오)
+161: ["MID", "SUP"]      # Vel'Koz (벨코즈)
+163: ["MID", "JG"]       # Taliyah (탈리야)
+164: ["TOP"]      # Camille (카밀) - 서폿 카밀 포함
+166: ["MID"]      # Akshan (아크샨) - 탑 아크샨 포함
+200: ["JG"]       # Bel'Veth (벨베스)
+201: ["SUP"]      # Braum (브라움)
+202: ["ADC"]       # Jhin (진)
+203: ["JG"]       # Kindred (킨드레드)
+221: ["ADC"]      # Zeri (제리)
+222: ["ADC"]      # Jinx (징크스)
+223: ["TOP", "SUP"]      # Tahm Kench (탐 켄치) - 원딜 탐켄치(세나조합) 포함
+233: ["JG"]       # Briar (브라이어)
+234: ["JG"]       # Viego (비에고)
+235: ["SUP"]      # Senna (세나) - 원딜 세나 포함
+236: ["ADC", "MID"]      # Lucian (루시안)
+238: ["MID", "JG"]       # Zed (제드)
+240: ["TOP", "MID"]      # Kled (클레드)
+245: ["JG", "MID"]       # Ekko (에코)
+246: ["MID", "JG"]       # Qiyana (키아나)
+254: ["JG"]       # Vi (바이)
+266: ["TOP"]      # Aatrox (아트록스)
+267: ["SUP"]      # Nami (나미)
+268: ["MID"]      # Azir (아지르)
+350: ["SUP"]      # Yuumi (유미)
+360: ["ADC"]      # Samira (사미라)
+412: ["SUP"]             # Thresh (쓰레쉬)
+420: ["TOP"]      # Illaoi (일라오이)
+421: ["JG", "TOP"]       # Rek'Sai (렉사이)
+427: ["JG"]       # Ivern (아이번) - 서폿 아이번 포함
+429: ["ADC", "TOP"]      # Kalista (칼리스타)
+432: ["SUP"]      # Bard (바드)
+497: ["SUP"]      # Rakan (라칸)
+498: ["ADC"]      # Xayah (자야)
+516: ["TOP"]      # Ornn (오른)
+517: ["MID", "JG"]      # Sylas (사일러스) - 정글 사일러스 포함
+518: ["MID", "SUP"]      # Neeko (니코)
+523: ["ADC"]      # Aphelios (아펠리오스)
+526: ["SUP"]      # Rell (렐) - 정글 렐 포함
+555: ["SUP"]      # Pyke (파이크)
+711: ["MID"]      # Vex (벡스)
+777: ["MID", "TOP"]      # Yone (요네)
+799: ["TOP"]       # Ambessa (암베사)
+875: ["TOP"]      # Sett (세트) - 미드 세트 포함
+876: ["JG"]       # Lillia (릴리아)
+887: ["TOP"]      # Gwen (그웬) - 정글 그웬 포함
+888: ["SUP"]      # Renata Glasc (레나타 글라스크)
+895: ["ADC"]      # Nilah (닐라)
+897: ["TOP"]      # K'Sante (크산테)
+901: ["ADC"]      # Smolder (스몰더)
+902: ["SUP"]             # Milio (밀리오)
+910: ["MID"]      # Hwei (흐웨이)
+950: ["MID"]      # Naafiri (나피리) - 정글 나피리 포함
